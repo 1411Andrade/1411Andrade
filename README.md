@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrade
 - 👀 Learning more about coding every day 
-- 💻 DEV Júnior Phyton
+- 💻 DEV Júnior
 - 📸 Photograpy
 - 📍SC
 
